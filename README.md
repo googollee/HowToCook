@@ -61,6 +61,7 @@ docker run -d -p 5000:5000 ghcr.io/anduin2017/how-to-cook:latest
 
 - [蚝油生菜](dishes/vegetable_dish/蚝油生菜.md)
 - [红烧冬瓜](dishes/vegetable_dish/红烧冬瓜.md)
+- [清炒西葫芦](dishes/vegetable_dish/清炒西葫芦.md)
 - [蒜蓉蚝油西兰花](dishes/vegetable_dish/蒜蓉蚝油西兰花.md)
 
 ### 荤菜
