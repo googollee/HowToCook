@@ -6,3 +6,4 @@
 * [红烧丝瓜](./../dishes/vegetable_dish/红烧丝瓜.md)
 * [煎嫩豆腐](./../dishes/vegetable_dish/煎嫩豆腐.md)
 * [红烧鸡翅](./../dishes/meat_dish/红烧鸡翅.md)
+* [鸡胸肉炒蘑菇](./../dishes/meat_dish/鸡胸肉炒蘑菇.md)

@@ -75,6 +75,8 @@ docker run -d -p 5000:5000 ghcr.io/anduin2017/how-to-cook:latest
 - [红烧排骨](dishes/meat_dish/红烧排骨.md)
 - [虾仁滑蛋](dishes/meat_dish/虾仁滑蛋.md)
 - [红烧鸡翅](dishes/meat_dish/红烧鸡翅.md)
+- [鸡胸肉炒蘑菇](dishes/meat_dish/鸡胸肉炒蘑菇.md)
+- [洋葱炒牛肉](dishes/meat_dish/洋葱炒牛肉.md)
 
 ### 水产
 
