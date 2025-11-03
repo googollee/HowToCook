@@ -67,6 +67,7 @@ docker run -d -p 5000:5000 ghcr.io/anduin2017/how-to-cook:latest
 - [红烧丝瓜](dishes/vegetable_dish/红烧丝瓜.md)
 - [炒花菜](dishes/vegetable_dish/炒花菜.md)
 - [煎嫩豆腐](dishes/vegetable_dish/煎嫩豆腐.md)
+- [蚝油杏鲍菇](dishes/vegetable_dish/蚝油杏鲍菇.md)
 
 ### 荤菜
 
@@ -80,6 +81,7 @@ docker run -d -p 5000:5000 ghcr.io/anduin2017/how-to-cook:latest
 
 ### 水产
 
+- [油焖大虾](dishes/aquatic/油焖大虾.md)
 
 ### 早餐
 
