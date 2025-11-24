@@ -17,8 +17,6 @@ RUN rm node_modules -rf && pip install -r requirements.txt
 RUN mkdocs build
 
 # ============================
-# Prepare Runtime Environment
-FROM nginx:1-alpine
-COPY --from=python-env /app/site /usr/share/nginx/html
-
-LABEL org.opencontainers.image.source="https://github.com/Anduin2017/HowToCook"
+# Output
+FROM scratch
+COPY --from=python-env /app/site /
