@@ -25,38 +25,13 @@ const categories = {
     readme: '',
     mkdocs: '',
   },
-  breakfast: {
-    title: '早餐',
-    readme: '',
-    mkdocs: '',
-  },
-  staple: {
-    title: '主食',
-    readme: '',
-    mkdocs: '',
-  },
-  'semi-finished': {
-    title: '半成品加工',
-    readme: '',
-    mkdocs: '',
-  },
   soup: {
     title: '汤与粥',
     readme: '',
     mkdocs: '',
   },
-  drink: {
-    title: '饮料',
-    readme: '',
-    mkdocs: '',
-  },
   condiment: {
     title: '酱料和其它材料',
-    readme: '',
-    mkdocs: '',
-  },
-  dessert: {
-    title: '甜品',
     readme: '',
     mkdocs: '',
   },

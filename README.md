@@ -82,27 +82,13 @@ docker run -d -p 5000:5000 ghcr.io/anduin2017/how-to-cook:latest
 
 - [油焖大虾](dishes/aquatic/油焖大虾.md)
 
-### 早餐
-
-
-### 主食
-
-
-### 半成品加工
-
-
 ### 汤与粥
 
 - [黑米红豆粥](dishes/soup/黑米红豆粥.md)
 
-### 饮料
-
-
 ### 酱料和其它材料
 
 - [油泼辣子](dishes/condiment/油泼辣子/油泼辣子.md)
-
-### 甜品
 
 ## 进阶知识学习
 
