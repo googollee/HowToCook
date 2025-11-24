@@ -55,29 +55,28 @@ docker run -d -p 5000:5000 ghcr.io/anduin2017/how-to-cook:latest
 - [2 星难度](starsystem/2Star.md)
 - [3 星难度](starsystem/3Star.md)
 - [4 星难度](starsystem/4Star.md)
-- [5 星难度](starsystem/5Star.md)
 
 ### 素菜
 
-- [蚝油生菜](dishes/vegetable_dish/蚝油生菜.md)
-- [红烧冬瓜](dishes/vegetable_dish/红烧冬瓜.md)
-- [清炒西葫芦](dishes/vegetable_dish/清炒西葫芦.md)
-- [蒜蓉蚝油西兰花](dishes/vegetable_dish/蒜蓉蚝油西兰花.md)
-- [手撕包菜](dishes/vegetable_dish/手撕包菜.md)
-- [红烧丝瓜](dishes/vegetable_dish/红烧丝瓜.md)
 - [炒花菜](dishes/vegetable_dish/炒花菜.md)
-- [煎嫩豆腐](dishes/vegetable_dish/煎嫩豆腐.md)
+- [蚝油生菜](dishes/vegetable_dish/蚝油生菜.md)
 - [蚝油杏鲍菇](dishes/vegetable_dish/蚝油杏鲍菇.md)
+- [红烧冬瓜](dishes/vegetable_dish/红烧冬瓜.md)
+- [红烧丝瓜](dishes/vegetable_dish/红烧丝瓜.md)
+- [煎嫩豆腐](dishes/vegetable_dish/煎嫩豆腐.md)
+- [清炒西葫芦](dishes/vegetable_dish/清炒西葫芦.md)
+- [手撕包菜](dishes/vegetable_dish/手撕包菜.md)
+- [蒜蓉蚝油西兰花](dishes/vegetable_dish/蒜蓉蚝油西兰花.md)
 
 ### 荤菜
 
-- [蒸肉沫](dishes/meat_dish/蒸肉沫.md)
-- [空气炸锅烤小羊排](dishes/meat_dish/空气炸锅烤小羊排.md)
-- [红烧排骨](dishes/meat_dish/红烧排骨.md)
-- [虾仁滑蛋](dishes/meat_dish/虾仁滑蛋.md)
 - [红烧鸡翅](dishes/meat_dish/红烧鸡翅.md)
+- [红烧排骨](dishes/meat_dish/红烧排骨.md)
 - [鸡胸肉炒蘑菇](dishes/meat_dish/鸡胸肉炒蘑菇.md)
+- [空气炸锅烤小羊排](dishes/meat_dish/空气炸锅烤小羊排.md)
+- [虾仁滑蛋](dishes/meat_dish/虾仁滑蛋.md)
 - [洋葱炒牛肉](dishes/meat_dish/洋葱炒牛肉.md)
+- [蒸肉沫](dishes/meat_dish/蒸肉沫.md)
 
 ### 水产
 
@@ -104,7 +103,6 @@ docker run -d -p 5000:5000 ghcr.io/anduin2017/how-to-cook:latest
 - [油泼辣子](dishes/condiment/油泼辣子/油泼辣子.md)
 
 ### 甜品
-
 
 ## 进阶知识学习
 
